@@ -1,3 +1,4 @@
+change line 17 to device_size_limit=$((15 * 1000 * 1000 * 1000))
 change line 103 to 5555555555555
 delete all partitions on usb device using disks tool
 run this command
