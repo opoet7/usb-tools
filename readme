@@ -1,0 +1,4 @@
+change line 103 to 5555555555555
+delete all partitions on usb device using disks tool
+run this command
+sudo ./spp-usb-creator --iso /home/t9834/Data/Software/HP/P52581_001_gen10spp-2022.09.01.00-SPP2022090100.2022_0930.1.iso  --device /dev/sdc
